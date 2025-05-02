@@ -23,7 +23,7 @@
 
 ```sh
 git clone ...........
-cd da_design_server_학번
+cd da_design_server
 pip3 install -r requirements.txt
 ```
 
@@ -43,7 +43,7 @@ TODO
 
 ### Contacts
 
-나의이메일
+gusrb0117@naver.com
 
 ---
 
