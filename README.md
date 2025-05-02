@@ -21,11 +21,26 @@
 
 #### How to install
 
+* Clone & Install
+
 ```sh
 git clone ...........
-cd da_design_server
+cd da_design_server_학번
 pip3 install -r requirements.txt
 ```
+
+* Append a python path to `~/.bashrc` file.
+
+```sh
+~$ cat >> ~/.bashrc
+export PYTHONPATH=$PYTHONPATH:/home/username/
+Ctrl+d
+
+~$ source ~/.bashrc
+```
+
+* Install MongoDB >= 5.0.7
+
 
 ---
 
